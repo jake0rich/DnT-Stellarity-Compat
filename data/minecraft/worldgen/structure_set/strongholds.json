@@ -1,0 +1,20 @@
+{
+  "structures": [
+    {
+      "structure": "nova_structures:stronghold",
+      "weight": 1
+    },
+    {
+      "structure": "stellarity:stronghold",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:concentric_rings",
+    "salt": 30084232,
+    "distance": 32,
+    "spread": 128,
+    "count": 128,
+    "preferred_biomes": "#minecraft:is_overworld"
+  }
+}
